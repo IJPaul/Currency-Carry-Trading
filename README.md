@@ -15,6 +15,12 @@ A trader can turn a profit due to the difference in the interest rates of two co
 
 ## How Can I Make Money?
 
-This algorithm is designed to identify high trading interest rate differentials and hedge risk associated with high leverage transactions. The high spread means that there is a lower chance the currency carry will lose you money as interest rates fluctuate.
+This algorithm is designed to identify trading interest rate differentials and hedge risk associated with high leverage transactions.
 
 The most popular carry trades involve buying currency pairs like the AUD/JPY and the NZD/JPY, since these have interest rate spreads that are very high.  
+
+# How Could I Lose Money?
+
+The type of trading is not without risks. In particular, currency pairs with high-interest rate differentials are sensitive to signs of economic instability in the world.
+
+Such pairs can become volatile with little warning, as was the case in the 2008 subprime mortage crisis, in which years of gains were quickly wiped out in a matter of months. Our risk management or be prepared to hedge any downside risk. Hedge funds that use a carry typically use little leverage because of the possibility of swift, severe losses.
