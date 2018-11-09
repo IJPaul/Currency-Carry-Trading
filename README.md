@@ -19,7 +19,7 @@ This algorithm is designed to identify trading interest rate differentials and h
 
 The most popular carry trades involve buying currency pairs like the AUD/JPY and the NZD/JPY, since these have interest rate spreads that are very high.  
 
-# How Could I Lose Money?
+## How Could I Lose Money?
 
 The type of trading is not without risks. In particular, currency pairs with high-interest rate differentials are sensitive to signs of economic instability in the world.
 
