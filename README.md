@@ -20,7 +20,7 @@ A trader can turn a profit due to the difference in the interest rates of two co
 
 This algorithm is designed to identify trading interest rate differentials and hedge risk associated with high leverage transactions.
 
-The most popular carry trades involve buying currency pairs like the AUD/JPY and the NZD/JPY, since these have interest rate spreads that are very high.  
+The most popular carry trades involve buying currency pairs like the AUD/JPY and the NZD/JPY, since these have interest rate spreads that are very high. As long as there is no movement in the interest rates or appreciation, the algorithm should be profitable. Specifically, it is designed to buy when the central government is or is considering interest rate hikes.
 
 ### How Could I Lose Money?
 
