@@ -1,4 +1,4 @@
-# Currency-Carry-Trading
+# Currency-Trading
 A basic quantitative currency trading strategy
 
 
