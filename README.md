@@ -26,12 +26,16 @@ The most popular carry trades involve buying currency pairs like the AUD/JPY and
 
 The type of trading is not without risks. In particular, currency pairs with high-interest rate differentials are sensitive to signs of economic instability in the world.
 
-Such pairs can become volatile with little warning, as was the case in the 2008 subprime mortage crisis, in which years of gains were quickly wiped out in a matter of months. Our risk management or be prepared to hedge any downside risk. Hedge funds that use a carry typically use little leverage because of the possibility of swift, severe losses.
+Such pairs can become volatile with little warning, as was the case in the 2008 subprime mortgage crisis, in which years of gains were quickly wiped out in a matter of months. Our risk management or be prepared to hedge any downside risk. Hedge funds that use a carry typically use little leverage because of the possibility of swift, severe losses.
 
-## Our Strategy
+## Investment Thesis
 
-## Overview
+The AUD/JPY currency pair will be purchased when the price is within 1% of a retracement level price and when that price is at or below the lower Bollinger band. The AUD/JPY currency pair will be sold when the price is within 1% of a retracement level price and when that price is at or above the upper Bollinger band. 
 
-## Profitable Opportunity Identification
+## Why This Thesis?
 
-## Hedging Risk
+Observing historical data of the exchange rate for the AUD/JPY currency pair, I noted that exchange rate movements occured as predicted by Fibonacci retracement often. That is, the levels at which one would expect the exchange rate to either break through a support or bounce at a level of resistance were very much in line with what actually occured in the historical data. 
+
+One primary concern was that the Fibonacci retracement indicator did not offer any insight as to whether the retracement level would act as a point of support or resistance, which is where Bollinger Bands come in. Bollinger Bands utilize a moving N day standard deviation and SMA which serves to identify overbought and oversold levels. These levels correspond with indicating whether a price will bounce or not: a price above the upper band is likely to mean revert back towards the SMA and a price below the lower band is likely to mean revert up towards the SMA. 
+
+We can thus use these two indicators in conjuction for resistance / bounce identifcation at fibonacci retracement level exchange rates. If the retracement level is not outside the bollinger band width, we conclude that the retracement level will act as a support zone and exchange rate will break through and continue in the direction it was heading. 
