@@ -1,6 +1,5 @@
 # Currency-Trading
-A basic quantitative currency trading strategy
-
+A quantitative long-term currency trading strategy 
 
 ## Introduction to Currency Trading
 
@@ -14,19 +13,11 @@ Unlike the NYSE, the market for currency exchanges is open 5.5 days a week for 2
 
 ### How Is Currency Pair Trading Profitable? 
 
-A trader can turn a profit due to the difference in the interest rates of two countries for as long as the exchange rate between the currencies does not change. Many professional traders use this strategy because the gains have the potential to be  large when leverage is taken into consideration. 
+Because currencies are traded in pairs, whenever a trade is made, a trader is going long on one currency and shorting the other.
 
 ### How Can I Make Money?
 
-This algorithm is designed to identify trading interest rate differentials and hedge risk associated with high leverage transactions.
-
-The most popular carry trades involve buying currency pairs like the AUD/JPY and the NZD/JPY, since these have interest rate spreads that are very high. As long as there is no movement in the interest rates or appreciation, the algorithm should be profitable. Specifically, it is designed to buy when the central government is or is considering interest rate hikes.
-
-### How Could I Lose Money?
-
-The type of trading is not without risks. In particular, currency pairs with high-interest rate differentials are sensitive to signs of economic instability in the world.
-
-Such pairs can become volatile with little warning, as was the case in the 2008 subprime mortgage crisis, in which years of gains were quickly wiped out in a matter of months. Our risk management or be prepared to hedge any downside risk. Hedge funds that use a carry typically use little leverage because of the possibility of swift, severe losses.
+This algorithm is designed to identify when the exchange rates are likeley to mean revert and thus executes trades at lows and sell at highs. 
 
 ## Investment Thesis
 
