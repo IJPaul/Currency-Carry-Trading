@@ -17,7 +17,7 @@ Because currencies are traded in pairs, whenever a trade is made, a trader is go
 
 ### How Can I Make Money?
 
-This algorithm is designed to identify when the exchange rates are likeley to mean revert and thus executes trades at lows and sell at highs. 
+This algorithm is designed to identify when the exchange rates are likeley to mean revert and thus buys at lows and sells at highs. 
 
 ## Investment Thesis
 
