@@ -9,7 +9,7 @@ The exchange of currencies around the world in order to conduct foreign business
 
 ### What is the Forex Market?
 
-Unlike the NYSE, the market for currency exchanges is open 5.5 days a week for 24 hours a day. Currencies are traded OTC entirely electornically via a network of computer. Due to the constant activity of exchanges located in various timezones, price quotes are always undergoing fluctuations. 
+Unlike the NYSE, the market for currency exchanges is open 5.5 days a week for 24 hours a day. Currencies are traded OTC entirely electronically via a network of computers. Due to the constant activity of exchanges located in various timezones, price quotes are always undergoing fluctuations. 
 
 ### How Is Currency Pair Trading Profitable? 
 
@@ -17,7 +17,7 @@ Because currencies are traded in pairs, whenever a trade is made, a trader is go
 
 ### How Can I Make Money?
 
-This algorithm is designed to identify when the exchange rates are likeley to mean revert and thus buys at lows and sells at highs. 
+This algorithm is designed to identify when the exchange rates are likely to mean revert and buys at lows and sells at highs before mean reversion. Note that since this is a mean reversion strategy, it's goal is to return small but consistent returns (low volatility) based on moving averages. As such, it is susceptible to significant losses due to extreme events such as political regime changes which can sharply affect currency pair conversion rates.
 
 ## Investment Thesis
 
