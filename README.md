@@ -1,5 +1,5 @@
 # Currency-Trading
-A quantitative long-term currency trading strategy 
+A quantitative currency trading strategy 
 
 ## Introduction to Currency Trading
 
